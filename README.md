@@ -3,8 +3,8 @@
 <b>A aplicação desenvolvida foi a "Be the hero" que visa conectar ONGs com pessoas que apoiam suas causas.</b>
 
 
+<b>Para criação da aplicação foi utilizado:</b>
 <ul>
-  <b>Para criação da aplicação foi utilizado:</b>
   <li>ReactJS</li>
   <li>React Native</li>
   <li>NodeJS</li>
